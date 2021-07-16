@@ -1,0 +1,33 @@
+.boxwrapper{
+    display: flex;
+    border: 2px solid #ff0000;
+    flex-direction:row;
+    height: 500px;
+    /* align-items: flex-start;  */
+    /* align-items: flex-end; */
+    /* align-items: center; */
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content:space-evenly; 
+
+}
+.box1{
+    width: 500px; 
+    background-color: brown;
+}
+.box2{
+    width: 500px; 
+    background-color: burlywood;
+}
+.box3{
+    width:500px; 
+    background-color: coral;
+}
+.box4{
+    width: 500px; 
+    background-color: crimson;
+}
+.box5{
+    width: 500px;
+    background-color: darkcyan;
+}

@@ -1,0 +1,16 @@
+.boxwrapper{
+    border: 2px solid black;
+    display: flex;
+}
+.box1{
+    background-color: blue;
+}
+.box2{
+    background-color: blueviolet;
+}
+.box3{
+    background-color: chocolate;
+}
+.box4{
+    background-color: crimson;
+}
